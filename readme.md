@@ -12,4 +12,4 @@ Ein kleines Streamlit-Tool zur Anzeige von GPX-Routen (z. B. aus Strava) auf e
 
 ```bash
 pip install -r requirements.txt
-streamlit run gpx_anzeige_app.py
+streamlit run gpx_viewer.py
