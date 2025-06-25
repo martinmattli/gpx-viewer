@@ -1,0 +1,13 @@
+# GPX-Dateien (nie pushen!)
+gpx_files/
+*.gpx
+*.fit
+*.fit.gz
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VSCode oder PyCharm
+.vscode/
+.idea/
