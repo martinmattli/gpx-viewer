@@ -20,6 +20,8 @@ Ein kleines Streamlit-Tool zur Anzeige von GPX-Routen (z. B. aus Strava) auf e
 
 ## 📸 Vorschau
 
+https://gpx-viewer.streamlit.app/
+
 <img src="screenshot_app.png" alt="Screenshot der App" width="800"/>
 
 ---
